@@ -12,14 +12,14 @@ The `RoomBookingSystem` project is designed to manage and query room bookings ef
 ## Project Structure
 
 project-folder/
-├── Makefile                  # Build script for compiling the project
-├── src/                      # Source files
-│   ├── RoomBookingSystem.cpp # Implementation of the RoomBookingSystem class
-│   └── main.cpp              # Entry point for the application
-├── include/                  # Header files
-│   └── RoomBookingSystem.h   # Declaration of the RoomBookingSystem class
-└── tests/                    # Unit tests
-    └── test_RoomBookingSystem.cpp # Tests for the RoomBookingSystem class
+├── Makefile                   
+├── src/                      
+│   ├── RoomBookingSystem.cpp 
+│   └── main.cpp              
+├── include/                  
+│   └── RoomBookingSystem.h   
+└── tests/                   
+    └── test_RoomBookingSystem.cpp 
 
 
 
