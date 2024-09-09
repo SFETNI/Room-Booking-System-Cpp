@@ -43,7 +43,7 @@ Here’s an example of how to use the `RoomBookingSystem`:
 
 1. **Initialize the System**: Create an instance of `RoomBookingSystem` with an initial booking status.
 
-   ```cpp
+   ```cpp```
    RoomBookingSystem bookingSystem('Available');
 
 bookingSystem.assign(1, 3, 'Booked');         // Book room from time 1 to time 3
